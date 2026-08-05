@@ -21,7 +21,7 @@ Always learning. Always building.
 
 ---
 
-<img align="right" width="320"
+<img align="right" width="350"
 src="https://github.com/user-attachments/assets/d4d44ca0-c48e-483c-b3c7-1a7319529418">
 
 ## 👨‍💻 About Me
@@ -32,10 +32,8 @@ src="https://github.com/user-attachments/assets/d4d44ca0-c48e-483c-b3c7-1a731952
 - 🌟 Striving to become a better developer every day.
 - 💬 Ask me about **Anything related to tech**
 - 📫 Reach me at **shashankmanurey@gmail.com**
-
   <br>
 <br>
-
 
 ---
 
