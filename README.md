@@ -21,7 +21,7 @@ Always learning. Always building.
 
 ---
 
-<img align="right" width="350"
+<img align="right" width="320"
 src="https://github.com/user-attachments/assets/d4d44ca0-c48e-483c-b3c7-1a7319529418">
 
 ## 👨‍💻 About Me
