@@ -10,6 +10,7 @@ Dedicated to creating impactful software while continuously learning new technol
 Always learning. Always building.
 </p>
 
+
 <br>
 
 <p align="center">
@@ -47,7 +48,7 @@ Always learning. Always building.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,postman,aws,azure,pytorch,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,postman,aws,azure,pytorch&perline=8"/>
 
 </p>
 
