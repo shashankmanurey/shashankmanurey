@@ -54,7 +54,7 @@ src="https://github.com/user-attachments/assets/d4d44ca0-c48e-483c-b3c7-1a731952
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,postman,aws,azure,pytorch&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,postman,aws,azure,selenium,pytorch&perline=8"/>
 
 </p>
 
