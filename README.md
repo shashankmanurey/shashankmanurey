@@ -52,9 +52,24 @@ src="https://github.com/user-attachments/assets/d4d44ca0-c48e-483c-b3c7-1a731952
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<!-- <p align="center"> -->
 
-<img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,postman,aws,azure,selenium,pytorch&perline=8"/>
+<!-- <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,git,github,postman,aws,azure,selenium,pytorch,jmeter&perline=8"/> -->
+
+<p align="center">
+  <img src="https://api.iconify.design/devicon:java.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:python.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:spring.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:mysql.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:git.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:github.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:postman.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:amazonwebservices.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:azure.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:selenium.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/devicon:pytorch.svg" width="45" height="45"/>
+  <img src="https://api.iconify.design/simple-icons:apachejmeter.svg" width="45" height="45"/>
+</p>
 
 </p>
 
